@@ -38,5 +38,5 @@ Basic yazi config
 
 cat <<EOF > ~/.config/yazi/yazi.toml [manager] show_hidden = true EOF
 
-echo "Bootstrap complete. You may now reboot and start sway with 'sway' or set up a 
-login manager."
+echo "Bootstrap complete. You may now reboot and start sway with 'sway' or set up a login manager."
+
